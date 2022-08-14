@@ -1,7 +1,7 @@
 # First
 I posted blog about how to make simple jupyter notebook.
 
-- QiitaBlog: 
+- QiitaBlog: https://qiita.com/making111/items/f942aa2743becfffac2f
 
 - GoogleDrive: https://drive.google.com/drive/folders/177Zns9qxF3ec9Ps6QnEgSomivp62hDbR?usp=sharing
 
